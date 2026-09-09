@@ -1,0 +1,20 @@
+[
+  {
+    "id": "faq-1",
+    "question": "Quels sont les délais de création d'entreprise ?",
+    "answer": "Les délais varient selon la forme juridique, généralement entre 3 et 10 jours ouvrés.",
+    "categoryName": "Création"
+  },
+  {
+    "id": "faq-2",
+    "question": "Pouvez-vous modifier mes statuts ?",
+    "answer": "Oui, nous accompagnons toutes les modifications statutaires.",
+    "categoryName": "Modification"
+  },
+  {
+    "id": "faq-3",
+    "question": "Intervenez-vous sur les marchés publics ?",
+    "answer": "Oui, nous aidons à la constitution et à la réponse des dossiers.",
+    "categoryName": "Marché Public"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "sec-001",
+    "name": "Restauration",
+    "types": [
+      {
+        "id": "type-001",
+        "name": "Restaurant"
+      },
+      {
+        "id": "type-002",
+        "name": "Fast Food"
+      }
+    ]
+  },
+  {
+    "id": "sec-002",
+    "name": "Informatique",
+    "types": [
+      {
+        "id": "type-003",
+        "name": "Développement Web"
+      },
+      {
+        "id": "type-004",
+        "name": "Maintenance Informatique"
+      }
+    ]
+  },
+  {
+    "id": "sec-003",
+    "name": "Santé",
+    "types": [
+      {
+        "id": "type-005",
+        "name": "Pharmacie"
+      },
+      {
+        "id": "type-006",
+        "name": "Clinique"
+      }
+    ]
+  },
+  {
+    "id": "sec-004",
+    "name": "Transport",
+    "types": [
+      {
+        "id": "type-007",
+        "name": "Taxi"
+      },
+      {
+        "id": "type-008",
+        "name": "Location de voiture"
+      }
+    ]
+  },
+  {
+    "id": "sec-005",
+    "name": "Éducation",
+    "types": [
+      {
+        "id": "type-009",
+        "name": "École privée"
+      },
+      {
+        "id": "type-010",
+        "name": "Centre de formation"
+      }
+    ]
+  },
+  {
+    "id": "sec-006",
+    "name": "Construction",
+    "types": [
+      {
+        "id": "type-011",
+        "name": "BTP"
+      },
+      {
+        "id": "type-012",
+        "name": "Architecture"
+      }
+    ]
+  },
+  {
+    "id": "sec-007",
+    "name": "Commerce",
+    "types": [
+      {
+        "id": "type-013",
+        "name": "Supermarché"
+      },
+      {
+        "id": "type-014",
+        "name": "Boutique"
+      }
+    ]
+  },
+  {
+    "id": "sec-008",
+    "name": "Beauté",
+    "types": [
+      {
+        "id": "type-015",
+        "name": "Salon de coiffure"
+      },
+      {
+        "id": "type-016",
+        "name": "Institut de beauté"
+      }
+    ]
+  },
+  {
+    "id": "sec-009",
+    "name": "Agriculture",
+    "types": [
+      {
+        "id": "type-017",
+        "name": "Culture vivrière"
+      },
+      {
+        "id": "type-018",
+        "name": "Élevage"
+      }
+    ]
+  },
+  {
+    "id": "sec-010",
+    "name": "Tourisme",
+    "types": [
+      {
+        "id": "type-019",
+        "name": "Hôtel"
+      },
+      {
+        "id": "type-020",
+        "name": "Agence de voyage"
+      }
+    ]
+  }
+]

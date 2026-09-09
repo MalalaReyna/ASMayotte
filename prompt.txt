@@ -1,0 +1,16 @@
+tu vas mettre les composants concernant devis dans features/espace/market
+
+dans espace/devis/page.tsx il faut faire une page liste avec
+- liste avec pagination ET select limit des devis, ordonné par createdAt (emphasize ca sur la page)
+- recherche sur nom de devis (param nommé search)
+- sur chaque ligne bouton pour delete et pour modifier une devis (en icone)
+- quand on clique sur modifier ca va vers une page de modification de devis
+    -donc il y a appel d'un service getById
+- quand on clique sur la ligne de devis ca va vers une page de détail du devis
+    -donc il y a appel d'un service getById
+- quand on clique sur supprimer il y a modal de confirmation
+- sépare bien en plusieurs composant
+
+- et fait aussi avec handler et appel de service (zod,react hook form & tanstack query)
+- inspire toi de ce qui existe déja avec region & admin-files 
+- mobile friendly
